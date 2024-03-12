@@ -45,4 +45,4 @@ Upon completion, you should be able to explain the following concepts without re
 - What is an**⬤**
 
 ## Authors
-Sean A. Cardona <cardonasean123@gmail.com>
+Aramis Martinez martinezcruzaj@gmail.com
